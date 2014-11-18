@@ -1,0 +1,3 @@
+source 'http://rubygems.org'
+
+gem "pay_me_adapter", path: 'adapters/pay_me_adapter'
